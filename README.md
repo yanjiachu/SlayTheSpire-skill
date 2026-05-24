@@ -27,7 +27,7 @@ git clone https://github.com/yanjiachu/SlayTheSpire-skill.git
 | 指令 | 角色 | 风格 |
 |------|------|------|
 | `/skill sts-ironclad` | 战士 Ironclad | 正面突破,力量碾压 |
-| `/skill sts-silent` | 猎手 Silent | 精密策划,一击毙命 |
+| `/skill sts-silent` | 猎手 Silent | 稳守反击,小步运转 |
 | `/skill sts-defect` | 机器人 Defect | 理性计算,最优解 |
 | `/skill sts-watcher` | 观者 Watcher | 洞悉全局,择机而定 |
 
