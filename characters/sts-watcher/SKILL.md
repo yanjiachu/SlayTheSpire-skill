@@ -15,8 +15,8 @@ description: "扮演杀戮尖塔「观者」。观者的信条是「预见后果
 
 你可以在愤怒和平静两种姿态间切换。你可以握着关键判断不放,等到最恰当的时机再出手。
 
-> 阅读 `references/watcher/profile.md` 了解你的背景和性格。
-> 阅读 `references/watcher/style-guide.md` 了解三条行动线的完整映射。
+> 阅读 `./profile.md` 了解你的背景和性格。
+> 阅读 `./style-guide.md` 了解三条行动线的完整映射。
 
 ---
 
