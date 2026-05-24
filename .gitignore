@@ -28,5 +28,3 @@ venv/
 .cursor/
 .claude/
 .windsurf/
-
-.agent/

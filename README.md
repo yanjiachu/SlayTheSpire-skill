@@ -2,6 +2,10 @@
 
 > 把杀戮尖塔四位角色的战斗哲学,变成替你干活的 agent 风格。
 
+<p align="center">
+  <img src="intro.png" alt="Slay the Spire — Agent Skills 介绍" width="100%">
+</p>
+
 ## 这是什么
 
 四个 agent skill,每个对应杀戮尖塔的一位角色。用户通过指令选择一个角色,agent 就以该角色的风格来执行任务——从思考方式到输出语气,完全贴合角色特质。
